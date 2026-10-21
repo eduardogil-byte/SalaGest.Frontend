@@ -3,13 +3,14 @@
 React 18 + TypeScript + Vite + Tailwind CSS. Esta versão foi alinhada aos endpoints do arquivo **SalaGest_Backend_v02_Inicio_Desenvolvimento.zip**. Não é compatível com todas as rotas de empréstimos da versão antiga `SalaGest_Backend_MVP.zip`.
 
 ## Requisitos
+
 - Node.js 20+ (recomendado 22) e npm;
 - .NET 8 + backend **v0.2** configurado e em execução;
 - SQL Server operacional e migrações aplicadas ao backend.
 
 ## Executar no Windows
 
-Na pasta `SalaGest.Frontend`, onde está o `package.json`:
+Na pasta `Frontend`, onde está o `package.json`:
 
 ```powershell
 npm install
